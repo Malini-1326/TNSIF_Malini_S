@@ -1,5 +1,6 @@
-package com.tnsif.dayfive.multilevelinheritance;
 
+//Program to define intermediate class inheriting from Employee
+package com.tnsif.dayfive.multilevelinheritance;
 
 import java.util.Date;
 

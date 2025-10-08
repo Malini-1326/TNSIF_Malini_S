@@ -1,4 +1,4 @@
-package com.tnsif.dayfive;
+package com.tnsif.dayfive.interfacedemo;
 
 public class FunctionalDemo {
 
@@ -7,7 +7,6 @@ public class FunctionalDemo {
 		//Lambda Expression
 				GreetingDemo gd = () -> 
 				System.out.println("Hello Everyone, Welcome to the Java Session");
-				
 				gd.greet();
 
 	}

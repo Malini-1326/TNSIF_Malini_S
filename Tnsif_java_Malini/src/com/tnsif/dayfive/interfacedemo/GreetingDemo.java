@@ -1,5 +1,5 @@
-package com.tnsif.dayfive;
+package com.tnsif.dayfive.interfacedemo;
 @FunctionalInterface
-public class GreetingDemo {
+public interface GreetingDemo {
 	void greet(); //used for declaration
 }

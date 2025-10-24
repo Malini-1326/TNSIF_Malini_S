@@ -1,4 +1,4 @@
-package com.tnsif.lamdaexpression;
+package com.tnsif.dayten.lamdaexpression;
 
 
 
@@ -27,4 +27,3 @@ public class UsingOldWay {
 		System.out.println("Cube is "+cubeObj.getCube(5));				
 	}
 }
-
